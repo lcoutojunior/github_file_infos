@@ -1,1 +1,1 @@
-Getting informations (path tree, file name, lines, size and extension) of GitHub repository on Master Branch. Without libs.
+Getting Informations (path tree, file name, lines, size and extension) of GitHub repository on given Branch. No libs used.
