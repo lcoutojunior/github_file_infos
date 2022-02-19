@@ -1,2 +1,1 @@
-# github_file_infos
-Get GitHub repository File Infos.
+Getting informations (path tree, file name, lines, size and extension) of GitHub repository on Master Branch. Without libs.
